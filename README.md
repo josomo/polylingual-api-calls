@@ -1,2 +1,3 @@
-polylingual-api-calls
-experimenting with languages by calling different apis and storing to databases for the uniquelyphilly project
+###polylingual-api-calls
+
+experimenting with different languages by building programs/scripts to perform api calls for [uniquelyphilly](http://github.com/josomo/uniquelyphilly)
